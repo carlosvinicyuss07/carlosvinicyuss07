@@ -30,17 +30,17 @@
 ### 📈 Estatísticas GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosVinicyus&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVinicyus&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosvinicyuss07&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvinicyuss07&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 📫 Contato
 
-- 📧 carlos.vinicius@email.com *(exemplo — substitua pelo seu)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEULINKEDIN)
-- 🌐 [Portfólio (em construção)](https://github.com/CarlosVinicyus)
+- 📧 carlosvinicyuss@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlosvinicyuss)
+- 🌐 [Portfólio (em construção)](https://github.com/carlosvinicyuss07)
 
 ---
 
