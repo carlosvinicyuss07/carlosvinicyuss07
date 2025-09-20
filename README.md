@@ -1,29 +1,66 @@
 <h1 align="center">Olá, eu sou Carlos Vinícyus! 👋</h1>
 
 <p align="center">
-  <i>Desenvolvedor Back-end em formação, apaixonado por Java, algoritmos e arquitetura limpa.</i>
+  <i>Desenvolvedor Full-Stack em formação, apaixonado por desenvolvimento, algoritmos e arquitetura limpa.</i>
 </p>
 
 ---
 
 ### 💻 Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação**
-- 🧠 Foco em **Java**, **Spring Boot**, **MySQL** e **Estruturas de Dados**
+- 🎓 Estudante de **Sistemas de Informação - 4º período**
+- 🧠 Foco em **Java**, **Spring Boot**, **Kotlin**, **Laravel**, **MySQL** e **Estruturas de Dados**
 - 🔍 Interesso-me por **engenharia de software**, **design de sistemas** e **boas práticas de programação**
 - 🚀 Estou desenvolvendo projetos robustos para meu portfólio — confira abaixo!
-- 📚 Sempre estudando para crescer como Dev Back-end
+- 📚 Sempre estudando para crescer como desenvolvedor de softwares e aplicativos
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🚀 Tecnologias e Ferramentas
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+<!-- Java -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+     alt="Java" width="50" height="50"/>
+
+<!-- Kotlin -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" 
+     alt="Kotlin" width="50" height="50"/>
+
+<!-- PHP -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
+     alt="PHP" width="50" height="50"/>
+
+<!-- Laravel (corrigido) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" 
+     alt="Laravel" width="50" height="50"/>
+
+<!-- Spring Boot -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+     alt="Spring Boot" width="50" height="50"/>
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+       alt="MySQL" width="50" height="50"/>
+
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+       alt="HTML" width="50" height="50"/>
+
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+       alt="CSS" width="50" height="50"/>
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+       alt="JavaScript" width="50" height="50"/>
+
+  <!-- Android Studio -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" 
+       alt="Android Studio" width="50" height="50"/>
+
+  <!-- IntelliJ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" 
+       alt="IntelliJ" width="50" height="50"/>
 
 ---
 
