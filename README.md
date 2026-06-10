@@ -1,19 +1,23 @@
 <h1 align="center">Carlos Vinícyus 👨‍💻</h1>
 
 <p align="center">
-  <b>Desenvolvedor focado em Android Nativo e Engenharia de Software</b><br>
-  <i>Construindo aplicações robustas, com código limpo e foco em evolução contínua.</i>
+  <b>Desenvolvedor Mobile focado em Android Nativo</b><br>
+  <i>Construindo aplicações robustas, com código limpo e evolução contínua.</i>
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou desenvolvedor em formação com foco em **desenvolvimento mobile Android**, atuando profissionalmente como **desenvolvedor Android Júnior**.
+Estou atuando profissionalmente como **desenvolvedor Android**.
 
 Tenho experiência prática com **Kotlin e Java**, aplicando conceitos como:
 
+* Desenvolvimento de interfaces amigáveis ao usuário (UX)
 * Programação orientada a objetos (POO)
+* Arquitetura limpa
+* Separaçao de camadas
+* Princípios SOLID
 * Estruturas de dados
 * Persistência de dados local e remota
 * Organização de código com foco em manutenção e escalabilidade
@@ -23,19 +27,6 @@ Atualmente, também estou aprofundando meus conhecimentos em:
 * 📱 Desenvolvimento Android moderno (Jetpack, arquitetura, boas práticas)
 * 🌐 Backend com **Java + Spring Boot**
 * 🧩 Integração entre aplicações e APIs
-
----
-
-## 🚀 O que você vai encontrar aqui
-
-Este perfil não é apenas um repositório de estudos.
-
-Aqui você vai ver:
-
-* Projetos Android com foco em **arquitetura e boas práticas**
-* Implementações reais de **persistência, regras de negócio e UI moderna**
-* Evolução contínua de código (refatorações, melhorias, organização)
-* Integrações com backend e APIs
 
 ---
 
